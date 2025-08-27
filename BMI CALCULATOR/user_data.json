@@ -1,0 +1,66 @@
+{
+  "dhruv": [
+    {
+      "date": "2025-08-26 16:44:19",
+      "weight": 62.0,
+      "height": 187.0,
+      "bmi": 17.7,
+      "category": "Underweight"
+    },
+    {
+      "date": "2025-08-26 16:44:35",
+      "weight": 62.0,
+      "height": 187.0,
+      "bmi": 17.7,
+      "category": "Underweight"
+    }
+  ],
+  "nisha": [
+    {
+      "date": "2025-08-26 16:45:27",
+      "weight": 34.0,
+      "height": 187.0,
+      "bmi": 9.7,
+      "category": "Underweight"
+    }
+  ],
+  "qwe123": [
+    {
+      "date": "2025-08-26 19:22:08",
+      "weight": 78.0,
+      "height": 123.0,
+      "bmi": 51.6,
+      "category": "Obese"
+    },
+    {
+      "date": "2025-08-26 19:22:11",
+      "weight": 78.0,
+      "height": 123.0,
+      "bmi": 51.6,
+      "category": "Obese"
+    },
+    {
+      "date": "2025-08-26 19:23:27",
+      "weight": 67.0,
+      "height": 187.0,
+      "bmi": 19.2,
+      "category": "Normal"
+    }
+  ],
+  "dfdsfdsf2323": [
+    {
+      "date": "2025-08-26 19:22:59",
+      "weight": 67.0,
+      "height": 187.0,
+      "bmi": 19.2,
+      "category": "Normal"
+    },
+    {
+      "date": "2025-08-26 19:23:05",
+      "weight": 67.0,
+      "height": 187.0,
+      "bmi": 19.2,
+      "category": "Normal"
+    }
+  ]
+}
